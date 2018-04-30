@@ -1,1 +1,2 @@
 com\devopsbuddy\DevopsbuddyApplication.class
+com\devopsbuddy\web\controllers\IndexController.class
